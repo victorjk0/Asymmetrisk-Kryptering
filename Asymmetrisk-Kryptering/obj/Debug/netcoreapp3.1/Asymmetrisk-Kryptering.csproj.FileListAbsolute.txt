@@ -1,0 +1,13 @@
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.exe
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.deps.json
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.runtimeconfig.json
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.runtimeconfig.dev.json
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.dll
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.pdb
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.csprojAssemblyReference.cache
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.csproj.CoreCompileInputs.cache
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.AssemblyInfoInputs.cache
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.AssemblyInfo.cs
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.dll
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.pdb
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Asymmetrisk-Kryptering.genruntimeconfig.cache

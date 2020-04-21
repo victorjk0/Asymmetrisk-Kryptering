@@ -1,0 +1,13 @@
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\bin\Debug\netcoreapp3.1\Encryption_Reciver.exe
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\bin\Debug\netcoreapp3.1\Encryption_Reciver.deps.json
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\bin\Debug\netcoreapp3.1\Encryption_Reciver.runtimeconfig.json
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\bin\Debug\netcoreapp3.1\Encryption_Reciver.runtimeconfig.dev.json
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\bin\Debug\netcoreapp3.1\Encryption_Reciver.dll
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\bin\Debug\netcoreapp3.1\Encryption_Reciver.pdb
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\obj\Debug\netcoreapp3.1\Encryption_Reciver.csprojAssemblyReference.cache
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\obj\Debug\netcoreapp3.1\Encryption_Reciver.csproj.CoreCompileInputs.cache
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\obj\Debug\netcoreapp3.1\Encryption_Reciver.AssemblyInfoInputs.cache
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\obj\Debug\netcoreapp3.1\Encryption_Reciver.AssemblyInfo.cs
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\obj\Debug\netcoreapp3.1\Encryption_Reciver.dll
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\obj\Debug\netcoreapp3.1\Encryption_Reciver.pdb
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Encryption_Reciver\obj\Debug\netcoreapp3.1\Encryption_Reciver.genruntimeconfig.cache

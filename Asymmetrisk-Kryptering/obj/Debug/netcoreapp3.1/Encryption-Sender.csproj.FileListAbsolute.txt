@@ -1,0 +1,4 @@
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Encryption-Sender.csprojAssemblyReference.cache
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Encryption-Sender.csproj.CoreCompileInputs.cache
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Encryption-Sender.AssemblyInfoInputs.cache
+D:\H4\Visual studio\C#\Asymmetrisk-Kryptering\Asymmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Encryption-Sender.AssemblyInfo.cs
